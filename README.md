@@ -1,4 +1,4 @@
-# zen
+# Cash Register System with Assembky
 Welcome!
 This is a simple 'cash register-like' system that I have created in assembly language, specifically x86.
 Basically, the program calculates the fees that are charged to a registrant according to the selected events.
